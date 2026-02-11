@@ -1,4 +1,4 @@
-# 🫁 Awesome Lung Cancer Screening AI (2020–2025)
+# 🫁 Awesome Lung Cancer Screening AI
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
